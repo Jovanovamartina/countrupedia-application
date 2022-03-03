@@ -1,0 +1,67 @@
+body{
+    background-image: url(https://media.istockphoto.com/vectors/world-map-of-dots-vector-id615899946?s=612x612);
+  margin: 0px;
+}
+
+.container-fluid{
+    background-color: lightskyblue;
+}
+.btn-outline-success{
+    background-color: lightskyblue;
+    border-color: lightskyblue;
+}
+
+   
+
+   .center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+    font-size: large;
+    font-size:30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+  }
+  .button {
+    cursor: pointer;
+    background-color: #d8dee2;
+    border: 0;
+    border-radius: 56px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: system-ui,-apple-system,system-ui,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    outline: 0;
+    padding: 16px 21px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: all .3s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  H1{
+     
+      align-items: center;
+      margin: auto;
+      width: 60%;
+      padding: 10px;
+      text-align: center;
+      font-size: large;
+      font-size:30px;
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  #spiner{
+    display: none;
+    margin: auto;
+    margin-top: 100px;
+}
+
+
+   
